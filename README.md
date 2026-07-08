@@ -1,68 +1,59 @@
-# Hi, I'm ShineAker 👋
+<div align="center">
 
-> 🤖 **Building real products with AI tools** — not just learning to code, actually shipping.
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&pause=1000&color=6C63FF&center=true&vCenter=true&width=600&lines=AI-Assisted+Developer;Building+real+products+with+AI+tools;Welcome+to+my+profile+%F0%9F%91%8B" alt="Typing SVG" />
 
----
+</div>
 
-## 🚀 What I'm Building
+<br/>
 
-### 🎮 [Gaming Item MM](https://gamingitem-mm.shop)
-Myanmar's game top-up & digital products marketplace.
+### 🚀 About Me
 
-- ⚡ Auto top-up via **Toko Voucher API**
-- ⭐ Telegram Stars & Premium via **iStar API**
-- 💳 KBZ Pay / Wave Pay / TON Crypto payments
-- 🤖 AI-powered receipt OCR verification
-- 🛒 Game Account marketplace
+- 🎮 **[gamingitem-mm.shop](https://gamingitem-mm.shop)** — Myanmar Game Top-up platform
+- 🤖 **Telegram Bots** — Digital products automation
+- 🛠️ **Stack:** React • Node.js • MySQL • Toko API
+- 🌏 Based in **Myanmar / Japan**
 
-**Stack:** React • TypeScript • tRPC • MySQL • Drizzle ORM • Tailwind • DigitalOcean
+<br/>
 
----
+### 🧰 Tech Arsenal
 
-## 🛠️ Tech Stack
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=react,nodejs,mysql,js,html,css,ts,git,docker,vscode,linux,figma" />
+</p>
 
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
-![Tailwind](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+<br/>
 
----
+### 📊 GitHub Analytics
 
-## 🤖 How I Work
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Ak150089&show_icons=true&theme=radical&hide_border=true&count_private=true" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ak150089&layout=compact&theme=radical&hide_border=true" />
+</p>
 
-I use **AI-assisted development** — Claude AI helps me build, debug, and ship faster.
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=Ak150089&theme=radical&hide_border=true" />
+</p>
 
-> "I don't just use AI as a tool — I build with it as a partner."
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Ak150089&theme=redical&hide_border=true" />
+</p>
 
-- 💡 Idea → AI pair programming → Ship
-- 🔧 Claude Code for local development
-- 🚀 DigitalOcean for deployment
-- 📦 PM2 + Nginx for production
+<br/>
 
----
+<div align="center">
 
-## 📦 Projects
+*"First, solve the problem. Then, write the code."* — John Johnson
 
-| Project | Description | Status |
-|---------|-------------|--------|
-| [gamingitem-mm.shop](https://gamingitem-mm.shop) | Myanmar Game Top-up Platform | 🟢 Live |
-| Telegram Bots | Digital products automation | 🟢 Live |
-| Game Account Marketplace | Buy/Sell game accounts | 🟢 Live |
+</div>
 
----
+<br/>
 
-## 📊 GitHub Stats
+<p align="center">
+  <a href="https://github.com/Ak150089"><img src="https://img.shields.io/badge/GitHub-Ak150089-181717?style=for-the-badge&logo=github" /></a>
+</p>
 
-![ShineAker's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ak150089&show_icons=true&theme=radical)
+<div align="center">
 
----
+![Profile Views](https://komarev.com/ghpvc/?username=Ak150089&color=6C63FF&style=for-the-badge)
 
-## 🌏 Connect
-
-- 🌐 [gamingitem-mm.shop](https://gamingitem-mm.shop)
-- 💬 Telegram: [@ShineAker](https://t.me/ShineAker)
-
----
-
-*🤖 Most of my code is AI-assisted — and I'm proud of it.*
+</div>
