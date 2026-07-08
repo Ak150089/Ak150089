@@ -35,7 +35,7 @@ Myanmar's digital marketplace for game top-ups & premium services
 
 ### 🤖 Telegram Sales Bot
 Automated order management, payments & delivery for digital goods
-<br/> <a herf="https://t.me/yuzuni_premium_bot">Telegram Bot</a>
+<br/>🔗 <a herf="https://t.me/yuzuni_premium_bot">Telegram Bot</a>
 
 </td>
 </tr>
